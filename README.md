@@ -16,6 +16,7 @@ I am a software developer... more info coming...
 
 ### 🧰 Languages and Tools
 
+<br /><br />
 <section align="center">
  <img display="block" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />          
  <img display="block" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -31,15 +32,17 @@ I am a software developer... more info coming...
  <img display="block" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
  <img display="block" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </section>
-<br /><br />
+<br />
 
 #
 
 ### 📊 Stats
 
+<br />
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jkrod&theme=catppuccin-latte&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1012)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=jkrod&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1012)](https://git.io/streak-stats)
- 
+
 #
 
 [website]: www.jrod.dk
