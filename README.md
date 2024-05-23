@@ -41,7 +41,7 @@ I am a software developer... more info coming...
 <br />
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jkrod&theme=catppuccin-latte&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1012)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=jkrod&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1012)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jkrod&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&card_width=1012)](https://git.io/streak-stats)
 
 #
 
